@@ -35,7 +35,7 @@
 <p align="left">I'm Sumudu Chamika, a passionate and curious intern software engineer with a strong interest in backend technologies, full-stack web development, and machine learning. I love solving real-world problems through code and constantly improving my skills by building projects and learning new tools and frameworks
 
 
- 🎓 Bachelor of ICT (Hons) Degree - University of Sri Jayewardenepura 
+ 🎓 Bachelor of ICT (Honours) Degree - University of Sri Jayewardenepura 
 
 
  🏢 Intern Software Engineer at iPay Sri Lanka 
